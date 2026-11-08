@@ -3,7 +3,7 @@
 Software Engineering passionate about writing clean, well-structured code.
 
 ## About Me
--  Studying Software Engineering
+-  Software Engineering and IA Engineering
 -  Currently exploring web and mobile development, building small projects to sharpen my skills
 -  Strong foundation in object-oriented programming and UML design
 -  Always learning — one commit at a time
