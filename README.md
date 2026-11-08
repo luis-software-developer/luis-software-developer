@@ -19,15 +19,15 @@
 ## 👋 About Me
 
 <p align="center">
-  Software Engineering passionate about writing clean, well-structured code.<br/>
-  Always learning — building small projects to sharpen my skills, one commit at a time.
+  Software Engineer passionate about writing clean, well-structured code.<br/>
+  Always learning — building projects and sharpening my skills, one commit at a time.
 </p>
 
 <table align="center">
   <tr>
     <td align="center" width="220">
-      <b>🎓 Studying</b><br/>
-      <sub>Software Engineering<br/>AI Engineering</sub>
+      <b>💼 Profession</b><br/>
+      <sub>Software Engineer<br/>AI Engineer</sub>
     </td>
     <td align="center" width="220">
       <b>🛠️ Building</b><br/>
@@ -66,6 +66,67 @@
 
 </div>
 
+## 🤖 AI-Assisted Development
+
+<p align="center">
+  I build with AI agents as part of my daily workflow, designing the context, tools and guardrails around them.
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-7F52FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <b>🧠 Agents</b><br/>
+      <sub>Agentic loops<br/>Subagents<br/>Multi-step task orchestration</sub>
+    </td>
+    <td align="center" width="220">
+      <b>🔌 MCP</b><br/>
+      <sub>Model Context Protocol<br/>MCP servers & clients<br/>Connecting tools and data</sub>
+    </td>
+    <td align="center" width="220">
+      <b>🪝 Hooks</b><br/>
+      <sub>Lifecycle automation<br/>Pre/post tool-use checks<br/>Guardrails and validations</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <b>🧰 Skills & Commands</b><br/>
+      <sub>Reusable skills<br/>Slash commands<br/>Plugins</sub>
+    </td>
+    <td align="center" width="220">
+      <b>📝 Context Engineering</b><br/>
+      <sub>Prompt engineering<br/>CLAUDE.md / project memory<br/>Context window management</sub>
+    </td>
+    <td align="center" width="220">
+      <b>🔧 Tool Use</b><br/>
+      <sub>Function calling<br/>Structured outputs<br/>API integration</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <b>📚 RAG</b><br/>
+      <sub>Embeddings<br/>Vector search<br/>Grounding with external data</sub>
+    </td>
+    <td align="center" width="220">
+      <b>✅ Evals & Review</b><br/>
+      <sub>Testing agent output<br/>Code review of AI changes<br/>Iterating on prompts</sub>
+    </td>
+    <td align="center" width="220">
+      <b>🔐 Safety</b><br/>
+      <sub>Permissions & sandboxing<br/>Prompt injection awareness<br/>Human-in-the-loop</sub>
+    </td>
+  </tr>
+</table>
+
 ## 🔭 What I'm Working On
 
 <table align="center">
@@ -88,20 +149,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luis-software-developer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=7F52FF&text_color=c9d1d9&ring_color=7F52FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-software-developer&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=c9d1d9" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=luis-software-developer&theme=dark&hide_border=true&background=0D1117&ring=7F52FF&fire=7F52FF&currStreakLabel=7F52FF" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luis-software-developer&bg_color=0D1117&color=7F52FF&line=7F52FF&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://ghchart.rshah.org/7F52FF/luis-software-developer" alt="Contributions chart" width="90%" />
 </div>
 
 ## 🤝 Let's Connect
