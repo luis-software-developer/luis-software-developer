@@ -1,9 +1,9 @@
 # Hi, I'm Luis
 
-Software Engineering student passionate about writing clean, well-structured code.
+Software Engineering passionate about writing clean, well-structured code.
 
 ## About Me
--  Studying Software Engineering at Tecnológico de Antioquia (TdeA), Colombia
+-  Studying Software Engineering
 -  Currently exploring web and mobile development, building small projects to sharpen my skills
 -  Strong foundation in object-oriented programming and UML design
 -  Always learning — one commit at a time
